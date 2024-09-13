@@ -39,10 +39,10 @@ manually looking up each process name with Google to determine its function and 
 | Process        | Analysis           | |
 |:-------------|:------------------|:------|
 | hxdef100.exe           | I am getting mixed reviews about this one. Some experts on chat forums claim it is a virus. | nice  |
-| iroffer.exe | Process Library states that "iroffer.exe is a process registered as a backdoor vulnerability which may be installed for malicious purposes by an attacker allowing access to your computer from remote locations, stealing passwords, Internet banking, and personal data" (Process List). There are also three iterations of it. Definitely suspicious.   | nice  |
-| poisonivy.exe           | I stand corrected. With this process, even the name is suspicious. The process is registered in MITRE ATT&CK's database as a malicous remote access tool (a full list of its functionalities is found on their website listed in the References section).      | hmm   |
-| soffice.exe           | This is a non-essential third-party process and is overall recognized as harmless. However, there is a possibility that it could be camouflaged malware (File.net). | yumm  |
-| soffice.bin           | Same reasoning as soffice.exe | yumm  |
+| iroffer.exe | Process Library states that "iroffer.exe is a process registered as a backdoor vulnerability which may be installed for malicious purposes by an attacker allowing access to your computer from remote locations, stealing passwords, Internet banking, and personal data" (Process List). There are also three iterations of it. Definitely suspicious.
+| poisonivy.exe           | I stand corrected. With this process, even the name is suspicious. The process is registered in MITRE ATT&CK's database as a malicous remote access tool (a full list of its functionalities is found on their website listed in the References section).
+| soffice.exe           | This is a non-essential third-party process and is overall recognized as harmless. However, there is a possibility that it could be camouflaged malware (File.net).
+| soffice.bin           | Same reasoning as soffice.exe
 | rundll32.exe           | An essential Windows command-line program but is registered as a backdoor vulnerability to the software Backdoor.W32.Ranky (Process Library).
 
 ### There's a horizontal rule below this.
