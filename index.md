@@ -36,7 +36,7 @@ To call the process list with Volatility, I use the command “python /usr/share
 At first glance, this does seem to be an average box. I have a list of the processes here, but no information about them such as their locations in the computer. Due to this, I believe it will be tricky to determine if any processes are malicious just by looking at their names (I do not imagine an attacker naming his payload something like virus.exe or informationstealer.exe). Therefore, I will have to analyze each process carefully. The best way I could think of is 
 manually looking up each process name with Google to determine its function and legitimacy. The following is a list I compiled of suspicious processes with justification (The full process list can be found in Figure 3):  
 
-| Process        | Analysis           |
+| Process        | Analysis           | |
 |:-------------|:------------------|:------|
 | hxdef100.exe           | I am getting mixed reviews about this one. Some experts on chat forums claim it is a virus. | nice  |
 | iroffer.exe | Process Library states that "iroffer.exe is a process registered as a backdoor vulnerability which may be installed for malicious purposes by an attacker allowing access to your computer from remote locations, stealing passwords, Internet banking, and personal data" (Process List). There are also three iterations of it. Definitely suspicious.   | nice  |
