@@ -172,3 +172,36 @@ are folders that you recognize.
 In terms of limitations, the only major one I found was the difficulty in identifying malicious processes with the “malfind” command. For some reason, it would not work for me and give me the wrong output so that I would not be able to search for the ‘MZ’ flag which marks the process as malicious. Moreover, the lack of the ability to copy virtual machine text onto my own computer’s clipboard totally hampered any investigation using Total Virus. Then, of course, the lack of any hive or hash data was also a significant blow to the investigation. Nevertheless, using alternative methods, I do feel that I still got the information I needed to properly complete this lab.
 
 This was a fun lab and once again reaffirmed that this is something I greatly enjoy doing in cyber security! The skills that I have learned from this lab and the others will be invaluable in my pursuit of a career dealing with intrusion detection and incident response.
+
+# References
+
+- <a href="https://www.opensourceforu.com/2016/10/volatility/" target="_blank">Volatility: The Open Source Framework for Memory Forensics - Sibi Chakkaravarthy</a>
+
+- <a href="https://sansorg.egnyte.com/dl/LVvF5jRNLK" target="_blank">365.pdf on Egnyte - Egnyte</a>
+
+- <a href="https://www.seeedstudio.com/blog/2020/02/24/what-is-x86-architecture-and-its-difference-between-x64/" target="_blank">What Is X86 Architecture and Its Difference between X64? - Yida</a>
+
+- <a href="https://www.sans.org/posters/memory-forensics-cheat-sheet/" target="_blank">Memory Forensics Cheat Sheet - Angelina Derajtys</a>
+
+- <a href="https://www.atechtown.com/digital-forensics-memory-analysis-using-volatility/" target="_blank">Volatility Framework - How to Use for Memory Analysis - Pasan Chamikara</a>
+
+- <a href="https://www.mandiant.com/resources/dll-side-loading-a-thorn-in-the-side-of-the-anti-virus-industry" target="_blank">DLL Side-Loading: A Thorn in the Side of the Anti-Virus Industry - Mandiant</a>
+
+- <a href="https://www.lifewire.com/what-is-a-registry-hive-2625986" target="_blank">What Is a Hive in the Windows Registry? - Tim Fisher</a>
+
+- <a href="https://www.file.net/process/soffice.exe.html" target="_blank">Soffice.exe - OpenOffice.org</a>
+
+- <a href="https://attack.mitre.org/software/S0012/" target="_blank">PoisonIvy, Software S0012 - MITRE ATT&CK®</a>
+
+- <a href="https://www.processlibrary.com/en/directory/files/rundll32/25747/" target="_blank">What Is Rundll32.exe? - Process Library</a>
+
+- <a href="https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-libraries" target="_blank">Dynamic-Link Libraries (Dynamic-Link Libraries) - Microsoft Docs</a>
+
+- <a href="https://volatilityfoundation.github.io/volatility/d1/d24/classvolatility_1_1plugins_1_1overlays_1_1windows_1_1xp_1_1_win_x_p_s_p2x86.html" target="_blank">Volatility.plugins.overlays.windows.xp.WinXPSP2x86 Class Reference - Volatility Framework</a>
+
+- <a href="https://www.sciencedirect.com/topics/computer-science/volatile-memory" target="_blank">Volatile Memory - ScienceDirect Topics</a>
+
+- <a href="https://github.com/volatilityfoundation/volatility/wiki/Command-Reference" target="_blank">Command Reference · Volatility Foundation Wiki - GitHub</a>
+
+- <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank">Windows XP - Wikipedia</a>
+
